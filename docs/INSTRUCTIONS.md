@@ -116,9 +116,9 @@ Zo ziet een Waterfall chart van WebPagetest er uit:
 
 #### Aanpak
 
-- Ga naar https://www.webpagetest.org/ en start een Site Performance test voor de site die je net getest hebt. Je krijgt ook hier weer wat Core Web Vitals getallen terug, omdat dit zo'n beetje de standaard is in deze industrie. Maar die hebben we zo ondertussen wel.
-- Scroll naar de eerste Waterfall chart en open deze.
-- Kopieer de afbeelding van de Waterfall View naar je Wiki.
+- Ga naar https://www.webpagetest.org/, maak een account, en start een Performance test voor de site die je net getest hebt. Je krijgt ook hier weer wat Core Web Vitals getallen terug, omdat dit zo'n beetje de standaard is in deze industrie.
+- Klik op het tabje “Waterfall” als de test voltooid is.
+- Download de afbeelding van de Waterfall naar je Wiki (of maak hiervan een screenshot).
 - Probeer in je Wiki zoveel mogelijk performance problemen te verklaren aan de hand van deze Waterfall chart.
 - Welkom in de wereld van Performance testing :)
 
