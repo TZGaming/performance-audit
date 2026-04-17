@@ -1,18 +1,6 @@
-# Performance Audit 
+# Performance Audit - Bol.com
 
-Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
+Voor deze performance test heb ik Bol.com gebruikt, het leek mij wel interessant omdat het een grote catalogus aan producten heeft.
 
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
-
-
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
-
-Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, de Core Web Vitals Assessment van PageSpeed Insights (als die beschikbaar is) en de waterfall chart van WebPageTest.
-
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
+## Resultaten
+De resultaten waren nogal erg verschillend op zowel desktop als mobiel. De tips waren voor het grootste gedeelte hetzelfde, alleen zijn de laadtijden erg verschillend. Hier kan je meer over lezen in de wiki: https://github.com/TZGaming/performance-audit/wiki
